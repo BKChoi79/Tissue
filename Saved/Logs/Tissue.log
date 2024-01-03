@@ -2065,3 +2065,9 @@ Exception rethrown at [0]:
 [2024.01.03-06.39.27:324][388]LogContentValidation: Display: /Script/Engine.World /Game/LevelGame.LevelGame 유효성 검사 중
 [2024.01.03-06.39.49:352][ 79]LogViewport: Scene viewport resized to 1014x555, mode Windowed.
 [2024.01.03-06.39.50:801][207]LogViewport: Scene viewport resized to 1526x875, mode Windowed.
+[2024.01.03-06.56.03:594][236]LogHttp: Warning: 00000A3A3E822300: request has been successfully processed. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCFB879D2-4F2D-F87A-2BF0-68B1F7789F89%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=ff3ce4fa4f57c3f7d96924968705207f%7C6dddd45a211c48e9bb5cb0f6559482b3%7Ca49eb374-124b-4c0c-af2a-5ca9fb294637&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 502, content length: 122, actual payload size: 122, elapsed: 0.19s
+[2024.01.03-06.56.03:594][236]LogHttp: Warning: 00000A3A3E822300 Response Header Server: awselb/2.0
+[2024.01.03-06.56.03:594][236]LogHttp: Warning: 00000A3A3E822300 Response Header Date: Wed, 03 Jan 2024 06:56:03 GMT
+[2024.01.03-06.56.03:594][236]LogHttp: Warning: 00000A3A3E822300 Response Header Content-Type: text/html
+[2024.01.03-06.56.03:594][236]LogHttp: Warning: 00000A3A3E822300 Response Header Content-Length: 122
+[2024.01.03-06.56.03:594][236]LogHttp: Warning: 00000A3A3E822300 Response Header Connection: keep-alive
